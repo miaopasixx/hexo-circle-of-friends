@@ -30,8 +30,8 @@ LINK: [
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
-    enable: false,
-    json_api: "",
+    enable: true,
+    json_api: "https://friend-json.pages.dev/friend.json",
     list: [
         # 示例1：
         ["半方池水半方田","https://uuanqin.top/","https://typora-1301301520.file.myqcloud.com/img/zhuangzhuangmao.jpg"],

@@ -32,36 +32,7 @@ LINK: [
 SETTINGS_FRIENDS_LINKS: {
     enable: true,
     json_api: "https://raw.githubusercontent.com/miaopasixx/friends/master/friend.json",
-    list: [
-        # 示例1：
-        ["半方池水半方田","https://uuanqin.top/","https://typora-1301301520.file.myqcloud.com/img/zhuangzhuangmao.jpg"],
-        ["安知鱼", "https://anzhiy.cn/", "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg"],
-        ["Akilar", "https://akilar.top", "https://bu.dusays.com/2022/08/14/62f87864834ae.png"],
-        ["张洪Heo", "https://blog.zhheo.com", "https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png"],
-        ["轻笑Chuckle", "https://www.chuckle.top", "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp"],
-        ["Ariasakaの小窝", "https://yisous.xyz", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png"],
-        ["Tianli", "https://tianli-blog.club", "https://img1.tianli0.top/logo.png"],
-        ["葱苓", "https://blog.itciraos.cn", "https://bu.dusays.com/2023/01/07/63b96bd7565ce.png"],
-        ["Fomalhaut??", "https://www.fomal.cc", "https://www.fomal.cc/assets/head.jpg"],
-        ["Vincent文朔", "https://blog.vincent1230.top", "//a.vincent1230.top/blogrol/avatar.jpg"],
-        ["Hc's Blog", "https://blog.ivil.top", "https://blog.ivil.top/img/logo.png"],
-        ["小城故事", "https://www.webxc.ml", "https://npm.elemecdn.com/webxc/logo/logo.jpg"],
-        ["花语阁", "https://www.pigax.cn", "http://q1.qlogo.cn/g?b=qq&nk=2033008907&s=640"],
-        ["虫不知喔", "https://blog.ssycs.com", "https://blog.ssycs.com/image/avatar.png"],
-        ["Ice の小站", "https://081113.xyz", "https://api.ixiaowai.cn/gqapi/gqapi.php"],
-        ["Nuyoah", "https://262259.xyz", "https://q1.qlogo.cn/g?b=qq&nk=2152889763&s=100"],
-        ["呆鱼", "https://daiyu-233.top", "https://daiyu-233.top/img/avatar.png"],
-        ["Mghy の Blog", "https://lmghy.top", "https://cdn.staticaly.com/gh/MGHYGitHub/image-hosting@master/image-hosting/36d6c6eb3a95cbd0bdc4a70b221c5a6.7l7dzzhg0k00.webpg"],
-        ["Rainx’s Blog", "https://rainxblog.top", "https://rainxblog.top/wp-content/uploads/2022/11/head.jpg"],
-        ["LyShark - 孤风洗剑", "https://www.lyshark.com", "https://www.lyshark.com/images/baidu_logo.png"],
-        ["lmx0", "https://www.lmx0.top/", "https://s1.vika.cn/space/2023/01/08/ccf7921738f741dbbd0a261c4b8fce1c"],
-        #["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
-        # 示例2：使用suffix的配置如下
-        # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
-        # 如果目标地址的后缀不在其中，就可以在这里添加
-        # 比如 https://elizen.me/hello.xml ，填写：
-        # ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"]
-    ]
+    list: []
 }
 
 # get links from gitee

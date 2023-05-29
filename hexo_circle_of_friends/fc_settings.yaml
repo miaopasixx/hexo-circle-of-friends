@@ -31,7 +31,7 @@ LINK: [
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
     enable: true,
-    json_api: "https://raw.githubusercontent.com/miaopasixx/friends/master/friend.json",
+    json_api: "",
     list: [
         ["半方池水半方田","https://uuanqin.top/","https://typora-1301301520.file.myqcloud.com/img/zhuangzhuangmao.jpg"],
         ["安知鱼", "https://anzhiy.cn/", "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg"],

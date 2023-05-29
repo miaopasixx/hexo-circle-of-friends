@@ -54,7 +54,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["Mghy の Blog", "https://lmghy.top", "https://cdn.staticaly.com/gh/MGHYGitHub/image-hosting@master/image-hosting/36d6c6eb3a95cbd0bdc4a70b221c5a6.7l7dzzhg0k00.webpg"],
         ["Rainx’s Blog", "https://rainxblog.top", "https://rainxblog.top/wp-content/uploads/2022/11/head.jpg"],
         ["LyShark - 孤风洗剑", "https://www.lyshark.com", "https://www.lyshark.com/images/baidu_logo.png"],
-        ["lmx0", "https://www.lmx0.top/", "https://s1.vika.cn/space/2023/01/08/ccf7921738f741dbbd0a261c4b8fce1c"]
+        ["lmx0", "https://www.lmx0.top/", "https://s1.vika.cn/space/2023/01/08/ccf7921738f741dbbd0a261c4b8fce1c"],
         #["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀

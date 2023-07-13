@@ -33,6 +33,7 @@ SETTINGS_FRIENDS_LINKS: {
     enable: true,
     json_api: "",
     list: [
+    #
         ["Akilar", "https://akilar.top", "https://bu.dusays.com/2022/08/14/62f87864834ae.png"],
         ["张洪Heo", "https://blog.zhheo.com", "https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png"],
         ["安知鱼", "https://blog.anheyu.com/", "https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg"],

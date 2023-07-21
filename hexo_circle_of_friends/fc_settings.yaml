@@ -53,7 +53,7 @@ SETTINGS_FRIENDS_LINKS: {
         ["Mghy の Blog", "https://lmghy.top", "https://cdn.staticaly.com/gh/MGHYGitHub/image-hosting@master/image-hosting/36d6c6eb3a95cbd0bdc4a70b221c5a6.7l7dzzhg0k00.webpg"],
         ["Rainx’s Blog", "https://rainxblog.top", "https://rainxblog.top/wp-content/uploads/2022/11/head.jpg"],
         ["lmx0", "https://www.lmx0.top/", "https://s1.vika.cn/space/2023/01/08/ccf7921738f741dbbd0a261c4b8fce1c"],
-        ["铭心石刻", "https://blog.kouseki.cn/rss.xml", "https://blog.kouseki.cn/imgs/avatar.webp"],
+        ["铭心石刻", "https://blog.kouseki.cn", "https://blog.kouseki.cn/imgs/avatar.webp"],
         ["REAI", "https://blogcn.ml/", "https://q1.qlogo.cn/g?b=qq&nk=2877406366&s=640"],
         ["屑殇的小破站", "https://jinghuashang.cn/", "https://jinghuashang.cn/img/acc.jpg"],
         ["青桔气球", "https://blog.qjqq.cn/", "https://avatar.qjqq.cn/1/646cdb372913c.webp!avatar"],
@@ -62,6 +62,9 @@ SETTINGS_FRIENDS_LINKS: {
         ["爱吃肉的猫", "https://meuicat.com/", "https://s1.ax1x.com/2023/05/26/p9qChjI.jpg"],
         ["白云苍狗", "https://www.imalun.com", "https://www.imalun.com/images/avatar.jpg?v=1"],
         ["元气秋刀鱼", "https://www.rickychen.top/", "https://www.rickychen.top/photos/profile-photo.jpg"],
+        ["神经蛙", "https://hexo.sjava.cn/", "https://hexo.sjava.cn/img/pic.png"],
+        ["探人间", "https://www.hydsb0.com", "https://bu.dusays.com/2023/07/10/64abbf448d530.jpg"],
+        ["SuYi-宿仪", "https://www.thotz.top/", "https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg"],
     ]
 }
 

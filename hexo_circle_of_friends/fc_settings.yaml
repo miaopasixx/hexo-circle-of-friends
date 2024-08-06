@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。
 LINK: [
-     { link: "https://www.yyyzyyyz.cn/link/", theme: "butterfly" },  # 友链页地址1，修改为你的友链页地址
+     { link: "https://miaopasixx.github.io/links/", theme: "common2" },  # 友链页地址1，修改为你的友链页地址
 #     { link: "https://noionion.top/link/", theme: "butterfly" }, # 友链页地址2
 #     { link: "https://immmmm.com/about/", theme: "common1" }, # 友链页地址3
 #     ...
@@ -30,17 +30,31 @@ LINK: [
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
-    enable: false,
+    enable: true,
     json_api: "",
     list: [
-        # 示例1：
-        ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
-        ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
-        # 示例2：使用suffix的配置如下
-        # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
-        # 如果目标地址的后缀不在其中，就可以在这里添加
-        # 比如 https://elizen.me/hello.xml ，填写：
-        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"]
+    #
+        ["Akilar", "https://akilar.top", "https://bu.dusays.com/2022/08/14/62f87864834ae.png"],
+        ["张洪Heo", "https://blog.zhheo.com", "https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png"],
+        ["Leonus", "https://blog.leonus.cn/", "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"],
+        ["半方池水半方田","https://uuanqin.top/","https://typora-1301301520.file.myqcloud.com/img/zhuangzhuangmao.jpg"],
+        ["轻笑Chuckle", "https://www.qcqx.cn/", "https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp"],
+        ["Ariasakaの小窝", "https://yisous.xyz", "https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png"], 
+        ["Fomalhaut🥝", "https://www.fomal.cc", "https://www.fomal.cc/assets/head.jpg"],
+        ["Vincent文朔", "https://blog.vincy1230.net/", "https://a.vincy1230.net/blogroll/avatar.jpg"],
+        ["Ice の小站", "https://blog.marice.top/", "https://bu.dusays.com/2023/12/09/6573efc02c4fe.webp"],
+        ["Nuyoah", "https://262259.xyz", "https://q1.qlogo.cn/g?b=qq&nk=2152889763&s=100"],
+        ["呆鱼", "https://daiyu.fun/", "https://daiyu.fun/img/avatar.png"],
+        ["Rainx’s Blog", "https://rainxblog.top", "https://rainxblog.top/wp-content/uploads/2022/11/head.jpg"],
+        ["铭心石刻", "https://blog.kouseki.cn", "https://blog.kouseki.cn/imgs/avatar.webp"],
+        ["屑殇的小破站", "https://jinghuashang.cn/", "https://jinghuashang.cn/img/acc.jpg"],
+        ["山岳库博", "https://kmar.top/", "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"],
+        ["爱吃肉的猫", "https://meuicat.com/", "https://s1.ax1x.com/2023/05/26/p9qChjI.jpg"],
+        ["白云苍狗", "https://www.imalun.com", "https://www.imalun.com/images/avatar.jpg?v=1"],
+        ["元气秋刀鱼", "https://www.rickychen.top/", "https://www.rickychen.top/photos/profile-photo.jpg"],
+        ["神经蛙", "https://hexo.sjava.cn/", "https://hexo.sjava.cn/img/pic.png"],
+        ["探人间", "https://www.hydsb0.com", "https://bu.dusays.com/2023/07/10/64abbf448d530.jpg"],
+        ["SuYi-宿仪", "https://www.thotz.top/", "https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg"],
     ]
 }
 
